@@ -39,7 +39,7 @@ end
 
 
 
-application:addChild(GUI.label(3, 3, application.width, application.height, 0x378a43, "Labor Control Panel - made by Simon Information Techology Group")).onTouch = function()
+application:addChild(GUI.label(3, 3, application.width, application.height, 0x378a43, "Labor Control Panel - made by Simon Techology Group")).onTouch = function()
   application:stop()
 end
 
